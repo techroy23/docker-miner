@@ -4,7 +4,7 @@ A minimal Docker setup that automatically fetches, updates, and runs the latest 
 > **Payout wallet — highly advised:** set your earning wallet in the **UrNetwork mobile app or website** before expecting rewards. This container does not configure wallet consent; a registered provider without a wallet is not paid.
 
 ## Build
-- UrNetwork_nightly v2026.10.25-1081686250
+- UrNetwork_nightly v2026.10.27-1083160450
 
 ## Links
 | DockerHub | GitHub | Invite |
